@@ -6,7 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajmangesh&label=Profile%20views&color=0e75b6&style=flat" alt="rajmangesh" /> </p>
 
 - 📫 How to reach me **rajmangesh16muz@gmail.com**
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="raj-mangesh1626" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/raj-mangesh1626?trk=profile-badge">Mangesh Raj</a></div>
+              
 - 📄 Know about my experiences [www.linkedin.com/in/ raj-mangesh1626](www.linkedin.com/in/ raj-mangesh1626)
 
 <h3 align="left">Connect with me:</h3>
