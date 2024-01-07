@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajmangesh&label=Profile%20views&color=0e75b6&style=flat" alt="rajmangesh" /> </p>
 
 - 📫 How to reach me **rajmangesh16muz@gmail.com**
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
               
 - 📄 Know about my experiences [www.linkedin.com/in/ raj-mangesh1626](www.linkedin.com/in/ raj-mangesh1626)
 
